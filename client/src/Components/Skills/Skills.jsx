@@ -21,7 +21,7 @@ function Skills() {
             <li>CSS</li>
             <li>HTML</li>
             <li>Express</li>
-            <li>MongoDB</li>
+            <li>Node.js</li>
             <li>React</li>
             <li>REST API</li>
             <li>SQL</li>

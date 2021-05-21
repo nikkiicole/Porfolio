@@ -1,7 +1,7 @@
 .about-me {
   background-color: #1f7a8c;
   padding: 10px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 30px;
 }
 .about-header {
@@ -10,7 +10,7 @@
 .profile {
   max-width: 45%;
   width: 50%;
-  height: auto;
+  max-height: 650px;
   margin: 10px;
 }
 .brand-statement {
