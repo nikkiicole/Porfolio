@@ -1,0 +1,68 @@
+.home-video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+@media (min-aspect-ratio: 16/9) {
+  video {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  video {
+    width: auto;
+    height: 100%;
+  }
+}
+
+.viewport-header {
+  position: relative;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.background-color {
+  background-color: rgba(206, 200, 200, 0.475);
+  width: 100%;
+  padding-bottom: 40px;
+}
+.greeting {
+  font-family: "Titillium Web", sans-serif;
+  color: #1f7a8c;
+  font-size: 50px;
+}
+
+.greeting-two {
+  font-family: "Titillium Web", sans-serif;
+  color: #1f7a8c;
+  font-size: 40px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.home-button {
+  margin-bottom: 26px;
+}
+
+@media only screen and (max-width: 580px) {
+  .greeting {
+    font-size: 30px;
+  }
+  .greeting-two {
+    font-size: 30px;
+  }
+}

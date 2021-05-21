@@ -1,0 +1,38 @@
+.project-videos {
+  width: 400px;
+  margin: 20px;
+}
+.project-container-container {
+  background-color: #1f7a8c;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.project-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+}
+.button-space {
+  margin-left: 10px;
+  padding-bottom: 15px;
+}

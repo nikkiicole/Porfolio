@@ -1,0 +1,38 @@
+.top-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: right;
+  background-color: rgba(228, 228, 228, 0.276);
+  margin: 0px;
+  position: fixed;
+  right: 0px;
+  left: 0px;
+  color: rgb(7, 7, 7);
+  width: 100%;
+  height: 120px;
+  max-height: 120px;
+  font-size: 26px;
+  font-family: "Titillium Web", sans-serif;
+  color: #fffcf2;
+}
+.backgroundheader {
+  height: 300px;
+  max-height: 300px;
+  background-image: url("https://res.cloudinary.com/dbmxg3su8/image/upload/v1621379453/pexels-dom-gould-325807_rhonty.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.name {
+  margin-left: 20px;
+}
+.title {
+  margin-right: 20px;
+}
+body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
