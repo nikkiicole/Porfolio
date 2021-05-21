@@ -23,7 +23,7 @@ function Projects() {
   return (
     <ThemeProvider theme={theme}>
       <div className="project-container-container">
-        <h1> Projects</h1>
+        <h1 className="project-title"> Projects</h1>
         <div className="project-container">
           <div>
             <h2>Code.Cards</h2>

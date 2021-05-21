@@ -1,0 +1,20 @@
+.Footer-Container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 30px;
+}
+.abstract {
+  background-image: url("https://res.cloudinary.com/dbmxg3su8/image/upload/v1621610506/white-abstract-background_23-2148810113_zdsmyh.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
