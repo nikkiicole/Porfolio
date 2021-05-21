@@ -4,7 +4,7 @@ import "./ContactMe.css";
 function ContactMe() {
   return (
     <div className="abstract">
-      <h1>Impressed? Hire Me. Let's Talk. </h1>
+      <h1 className="project-title">Impressed? Hire Me. Let's Talk. </h1>
       <footer className="Footer-Container">
         <div>
           <h2>Email Me! </h2>
