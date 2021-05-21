@@ -20,3 +20,8 @@
   padding-bottom: 30px;
   font-family: "Raleway", sans-serif;
 }
+@media only screen and (max-width: 900px) {
+  .project-title {
+    font-size: 30px;
+  }
+}

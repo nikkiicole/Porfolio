@@ -36,3 +36,14 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+@media only screen and (max-width: 900px) {
+  .top-nav {
+    font-size: 15px;
+  }
+  .name {
+    margin-left: 5px;
+  }
+  .title {
+    margin-right: 5px;
+  }
+}

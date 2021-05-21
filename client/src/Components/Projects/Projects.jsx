@@ -26,7 +26,7 @@ function Projects() {
         <h1 className="project-title"> Projects</h1>
         <div className="project-container">
           <div>
-            <h2>Code.Cards</h2>
+            <h2 className="project-title">Code.Cards</h2>
             <p>
               Code.Cards is designed to create a resource for new developers to
               study and solidify important methods, definitions and concepts.
@@ -85,7 +85,7 @@ function Projects() {
 
         <div className="project-container">
           <div>
-            <h2>Remember</h2>
+            <h2 className="project-title">Remember</h2>
             <p>
               Remember is an app for anyone who may have lost a loved one and is
               looking for a way to keep a digital memory of them including
@@ -145,7 +145,7 @@ function Projects() {
 
         <div className="project-container">
           <div>
-            <h2>LongDay</h2>
+            <h2 className="project-title">LongDay</h2>
             <p>
               LongDay is a random drink recipe generator and a random advice
               slip generator. The user can either select to get a random
