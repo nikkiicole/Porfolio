@@ -27,7 +27,7 @@ function Home() {
           autoPlay="autoplay"
           muted
           loop="loop"
-          poster="https://res.cloudinary.com/dbmxg3su8/image/upload/v1621609706/Screen_Shot_2021-05-21_at_11.06.39_AM_zmggx7.png"
+          poster="https://res.cloudinary.com/dbmxg3su8/image/upload/v1621983741/Screen_Shot_2021-05-25_at_7.01.48_PM_o3mwhx.png"
         >
           <source src={Nature} type="video/mp4" />
         </video>
