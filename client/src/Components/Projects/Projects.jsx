@@ -92,8 +92,8 @@ function Projects() {
               contributions from family members and friends. Remember allows
               users to add photos and memories to a loved one's profile.
               Remember is built using React for the Frontend and Ruby on Rails
-              for the backend. For styling I used a mixture of Material UI and
-              CSS.
+              for the backend with full authentication using devise. For styling
+              I used a mixture of Material UI and CSS.
             </p>
           </div>
           <div className="left">
