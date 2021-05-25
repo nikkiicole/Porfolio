@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import Nature from "../../Videos/new.mp4";
+import Nature from "../../Videos/short.mp4";
 import { Link } from "react-router-dom";
 import FaceIcon from "@material-ui/icons/Face";
 import Button from "@material-ui/core/Button";
