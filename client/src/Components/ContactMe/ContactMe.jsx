@@ -1,10 +1,29 @@
 import React from "react";
 import "./ContactMe.css";
+import GetAppIcon from "@material-ui/icons/GetApp";
+import Button from "@material-ui/core/Button";
 
 function ContactMe() {
   return (
     <div className="abstract">
       <h1 className="project-title">Impressed? Hire Me. Let's Talk. </h1>
+      <a
+        className="link"
+        target="_blank"
+        rel="noreferrer"
+        href="https://drive.google.com/file/d/1W-kcznlMbD5oPqvLR_Po1f6V5vL1xEq-/view?usp=sharing"
+      >
+        <Button
+          className="home-button"
+          size="large"
+          variant="contained"
+          color="default"
+          startIcon={<GetAppIcon />}
+          type="submit"
+        >
+          Download My Resume
+        </Button>
+      </a>
       <footer className="Footer-Container">
         <div>
           <h2>Email Me! </h2>
