@@ -65,7 +65,7 @@ function Projects() {
                   className="link"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://60664136a8ea700008978442--cocky-yalow-142e69.netlify.app/"
+                  href="https://codecards.netlify.app/"
                 >
                   <Button
                     className="home-button"

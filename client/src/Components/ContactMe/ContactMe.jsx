@@ -31,14 +31,13 @@ function ContactMe() {
             className="Email"
             href="mailto: niikkicodes@gmail.com"
             target="_blank"
-            rel="noreferrer"
-          >
+            rel="noreferrer">
             <img
               src="https://res.cloudinary.com/dbmxg3su8/image/upload/v1621593030/Screen_Shot_2021-05-21_at_6.30.10_AM_ie2g2t.png"
               alt="Github Logo"
               height="120"
-              width="120"
-            ></img>
+              width="120" >
+            </img>
           </a>
         </div>
       </footer>
